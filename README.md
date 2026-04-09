@@ -1,0 +1,1 @@
+A baseline implementation of a path tracer in C++. Nothing outworldly to see, just some simple sphere rendering inspired by [*Ray Tracing in One Weekend*](https://raytracing.github.io/books/RayTracingInOneWeekend.html). 
